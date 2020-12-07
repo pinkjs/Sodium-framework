@@ -618,6 +618,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 36A8DCA11D28D70D00B97D7E;
@@ -821,7 +822,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = me.zhuhaow.Sodium;
 				PRODUCT_NAME = Sodium;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -848,7 +849,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = me.zhuhaow.Sodium;
 				PRODUCT_NAME = Sodium;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
